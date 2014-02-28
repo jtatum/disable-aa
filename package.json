@@ -1,5 +1,5 @@
 {
-  "name": "Disable anti-aliasing",
+  "name": "disable-aa",
   "main": "./noop",
   "version": "0.1.0",
   "description": "When enabled, this package will disable anti-aliasing globally in Atom.",

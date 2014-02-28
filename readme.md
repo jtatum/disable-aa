@@ -1,4 +1,4 @@
-# Disable-Aa
+# disable-aa
 
 Disable anti-aliasing globally in Atom. I don't know about anyone else, but I like reading things this
 way.
