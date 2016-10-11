@@ -1,7 +1,7 @@
 {
   "name": "disable-aa",
   "main": "./disableaa",
-  "version": "0.2.0",
+  "version": "0.1.1",
   "description": "When enabled, this package will disable anti-aliasing globally in Atom.",
   "repository": "https://github.com/jtatum/disable-aa",
   "license": "MIT"
